@@ -1,3 +1,3 @@
 # Assignment4_Task1
-UNIGIS 
-![Ferienbild Costa Rica](costarica.jpg)
+Sunset in Costa Rica
+![Sunset in Costa Rica](costarica.jpg)
